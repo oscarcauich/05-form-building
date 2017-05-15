@@ -53,7 +53,11 @@
 }
 
 /*TODO: Add CSS for the "article-export" portion of our new page*/
-
+#article-export label {
+  color: gray;
+  font-size: .8em;
+  font-style: italic;
+}
 
 @media only screen and (min-width: 640px) {
   .icon-menu {
